@@ -1,0 +1,34 @@
+{
+    "smoothies": [
+      {
+        "id": 1,
+        "name": "Vanilla Date",
+        "image": "https://usa.fage/sites/usa.fage/files/recipes/hero/Fage_Recipe_Dec22_Vanilla_Date_Smoothie_1200x500.jpg",
+        "price": 4
+      },
+      {
+        "id": 2,
+        "name": "Peppermint",
+        "image": "https://usa.fage/sites/usa.fage/files/recipes/hero/Fage_Recipe_Peppermint_Smoothie_1200x500.jpg",
+        "price": 5
+      },
+      {
+        "id": 3,
+        "name": "Carrot Orange Ginger",
+        "image": "https://usa.fage/sites/usa.fage/files/recipes/hero/Fage_Recipe_Headers_Aug21_Total_Plain_CarrotOrange_Smoothie_1791_1200x500.jpg",
+        "price": 5
+      },
+      {
+        "id": 4,
+        "name": "Winter Green",
+        "image": "https://usa.fage/sites/usa.fage/files/recipes/hero/Fage_Recipe_Headers_Aug21_Total_Plain_Green_Smoothie_1880_1200x500.jpg",
+        "price": 6
+      },
+      {
+        "id": 5,
+        "name": "Tropical Pineapple-Coconut",
+        "image": "https://usa.fage/sites/usa.fage/files/recipes/hero/pineapple-mango-smoothie%20%281%29-min.jpg",
+        "price": 5
+      }
+    ]
+  }
