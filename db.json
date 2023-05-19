@@ -29,6 +29,12 @@
       "name": "Tropical Pineapple-Coconut",
       "image": "https://usa.fage/sites/usa.fage/files/recipes/hero/pineapple-mango-smoothie%20%281%29-min.jpg",
       "price": 5
+    },
+    {
+      "name": "Strawbery Banana",
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/11/19/0/FNK_Strawberry-Banana-Smoothie_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1605818669813.jpeg",
+      "price": "5",
+      "id": 6
     }
   ]
 }
