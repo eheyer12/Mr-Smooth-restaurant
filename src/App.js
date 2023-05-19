@@ -57,7 +57,7 @@ function App() {
           <SmoothieList smoothies={filteredSmoothies}/>
         </Route>
         <Route exact path="/">
-          <h1>Welcome! Here is the list of smoothies available:</h1>
+          <h2>Welcome! Here is the list of smoothies available:</h2>
           <SmoothieList smoothies={smoothies}/>
         </Route>
       </Switch>

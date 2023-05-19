@@ -6,7 +6,7 @@ function NewSmoothieForm({addSmoothie, updateFormData}) {
 
     return (
       <div className="new-smoothie-form">
-        <h2>New Smoothie</h2>
+        <h3>New Smoothie</h3>
         {formSubmitted ? <h1>Thanks for adding a new smoothie suggestion!</h1> :
           <form onSubmit={(event) => {
             addSmoothie(event)

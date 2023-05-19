@@ -12,7 +12,7 @@ function Smoothie({smoothie}){
         <li className="smoothie">
             <img src={smoothie.image} alt={smoothie.name} />
             <h4>{smoothie.name}</h4>
-            <p>Price: {smoothie.price}</p>
+            <p>Price:${smoothie.price}</p>
             <button onClick={handleToggle}>{toggle ? (<button className="primary">In Stock</button>) : (<button>Out of Stock</button>)}</button>
             <br/><br/>
         </li>
